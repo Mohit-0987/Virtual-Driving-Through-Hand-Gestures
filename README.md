@@ -1,5 +1,7 @@
 # Virtual Driving with Hand Gestures
 
+![Testing](https://github.com/Mohit-0987/Virtual-Driving-Through-Hand-Gestures/blob/main/testing%20image.jpg)
+
 This project allows you to control driving games or other desktop applications using real-time hand gestures captured through your webcam. It uses computer vision to track your hands, recognize specific gestures, and translate them into keyboard commands.
 
 ## Features
